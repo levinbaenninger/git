@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE instance-profile
+        SYSTEM "https://resources.jetbrains.com/writerside/1.0/product-profile.dtd">
+
+<instance-profile id="in"
+                  name="Git und GitHub" start-page="Ueberblick.topic">
+
+    <toc-element topic="Ueberblick.topic"/>
+    <toc-element topic="Git.md"/>
+    <toc-element topic="GitHub.md"/>
+</instance-profile>
