@@ -11,10 +11,9 @@
         </variables>
         <footer>
             <copyright>Levin Bänninger 2023</copyright>
-            <social type="linkedin" href="https://www.linkedin.com/in/levinbaenninger/"></social>
-            <social type="email" href="mailto:l.baenninger@icloud.com"></social>
-            <link href="https://levinbaenninger.dev">Portfolio</link>
-            <link href="https://www.buhlergroup.com/">Employer</link>
+            <social type="linkedin" href="https://www.linkedin.com/in/levinbaenninger/">LinkedIn</social>
+            <social type="email" href="mailto:l.baenninger@icloud.com">E-Mail</social>
+            <social type="blog" href="https://levinbaenninger.dev">Portfolio</social>
         </footer>
     </build-profile>
 

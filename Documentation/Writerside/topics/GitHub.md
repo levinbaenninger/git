@@ -17,7 +17,7 @@ mehreren Personen und der Verwaltung von File-Versionen.
 | **GitHub**                              | Visual Studio, Visual Studio Code |
 
 Wenn ein Entwickler an einem bestimmten Teil eines Softwarecodes arbeiten möchte, wäre es nicht sicher, wenn er den "offiziellen" Quellcode direkt
-bearbeiten würde. Stattdessen können Entwickler mit der versionskontrolle sicher durch Verzweigungen und Zusammenführungen arbeiten.
+bearbeiten würde. Stattdessen können Entwickler mit der Versionskontrolle sicher durch Verzweigungen und Zusammenführungen arbeiten.
 
 Beim Verzweigen dupliziert ein Entwickler einen Teil des Quellcodes (das sogenannte Repository). Der Entwickler kann dann sicher Änderungen an diesem
 Teil des Codes vornehmen, ohne den Rest des Projekts zu beeinträchtigen.
