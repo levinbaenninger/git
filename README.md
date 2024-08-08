@@ -6,7 +6,7 @@ Welcome to the Git repository! This repository contains comprehensive documentat
 
 ## Table of Contents
 
-- [Web](#git)
+- [Git](#git)
   * [Overview](#overview)
   * [Table of Contents](#table-of-contents)
   * [Introduction](#introduction)
@@ -18,7 +18,7 @@ Welcome to the Git repository! This repository contains comprehensive documentat
 
 ## Introduction
 
-Git is a crucial area of software engineering that focuses on building websites and webapps. This repository aims to provide both theoretical and practical knowledge to help developers excel in this domain.
+Git is a crucial area of software engineering that focuses on version control and contributing. This repository aims to provide both theoretical and practical knowledge to help developers excel in this domain.
 
 ## Getting Started
 
