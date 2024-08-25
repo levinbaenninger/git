@@ -3,7 +3,7 @@
                xsi:noNamespaceSchemaLocation="https://resources.jetbrains.com/writerside/1.0/build-profiles.xsd">
 
     <variables>
-        <primary-color>deep-ocean</primary-color>
+        <primary-color>halloween</primary-color>
     </variables>
     <build-profile instance="in">
         <variables>
