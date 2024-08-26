@@ -4,6 +4,9 @@
 
     <variables>
         <primary-color>halloween</primary-color>
+        <algolia-id>BYZF195OTC</algolia-id>
+        <algolia-index>prod_GIT</algolia-index>
+        <algolia-api-key>1e74ed42ee4db1d53f61e7244351b8c8</algolia-api-key>
     </variables>
     <build-profile instance="in">
         <variables>
